@@ -1,0 +1,5 @@
+# github.com/gorilla/mux v1.7.4
+github.com/gorilla/mux
+# github.com/paulrosania/go-charset v0.0.0-20190326053356-55c9d7a5834c
+github.com/paulrosania/go-charset/charset
+github.com/paulrosania/go-charset/data
